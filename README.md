@@ -16,11 +16,17 @@ Being a developer is tough sometimes, but it gets better with time and patience 
 
 📖 Learning Jetpack Compose
 
+✅ Portfolio Website: https://darylgialolo.wixsite.com/darylgialolo
+
 
 ### Programming Languages:
 🥇 Kotlin
+
 🥈 Swift
+
 🥉 Javascript
+
 🐍 Python
+
 💾 Java
 
