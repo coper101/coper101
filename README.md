@@ -1,15 +1,26 @@
-👋 Hello, I’m Daryl / @coper101
+### Hey, I'm Daryl 🤚🏼
 
-I'm constantly learning new things. I mostly develop Android and iOS apps 🍎🤖
+I am a Mobile Software Developer and a UI/UX Designer too. I enjoy coding and designing during my free time.
 
-Aside from coding, designing user interfaces is one of my hobbies as well.
-I use Figma to create mobile wireframes as its free and it comes with a bunch of cool features. 
+Being a developer is tough sometimes, but it gets better with time and patience :)
 
-Currently, I'm learning Jetpack Compose which is a new way to code Android apps.
-I've also built my first Swift UI too. I must say Declarative Programming in mobile development is 👌🏼
 
-If you've reached reading this line, Thanks for your time! 🙏🏼 
+### More about me:
+🤖 🍎 Android & iOS Developer
 
-You may Email me for collaboration or open source projects:
-📫 darylgialolo@gmail.com
+🌍 Intermediate Web Developer
+
+📫 Drop me an email: darylgialolo@gmail.com
+
+👨🏼‍💻 Working on Tap 2 Gradient app
+
+📖 Learning Jetpack Compose
+
+
+### Programming Languages:
+🥇 Kotlin
+🥈 Swift
+🥉 Javascript
+🐍 Python
+💾 Java
 
