@@ -20,13 +20,4 @@ Being a developer is tough sometimes, but it gets better with time and patience 
 
 
 ### Programming Languages:
-🥇 Kotlin
-
-🥈 Swift
-
-🥉 Javascript
-
-🐍 Python
-
-💾 Java
-
+Kotlin | Swift | Javascript | Python | Java
