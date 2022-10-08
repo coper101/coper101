@@ -12,12 +12,12 @@ Being a developer is tough sometimes, but it gets better with time and patience 
 
 📫 Drop me an email: darylgialolo@gmail.com
 
-👨🏼‍💻 Working on Tap 2 Gradient app
+👨🏼‍💻 Working on Data Pill app
 
-📖 Learning Jetpack Compose
+📖 Coding in Swift UI, Jetpack Compose 
 
 ✅ Portfolio Website: https://darylgialolo.wixsite.com/darylgialolo
 
 
-### Programming Languages:
-Kotlin | Swift | Javascript | Python | Java
+### Programming Languages: (most to least used)
+Swift | Kotlin | Java | Javascript | Objective C | Python
