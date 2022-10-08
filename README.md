@@ -8,8 +8,6 @@ Being a developer is tough sometimes, but it gets better with time and patience 
 ### More about me:
 🤖 🍎 Android & iOS Developer
 
-🌍 Intermediate Web Developer
-
 📫 Drop me an email: darylgialolo@gmail.com
 
 👨🏼‍💻 Working on Data Pill app
