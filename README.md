@@ -18,4 +18,4 @@ Being a developer is tough sometimes, but it gets better with time and patience 
 
 
 ### Programming Languages: (most to least used)
-Swift | Kotlin | Java | Javascript | Objective C | Python
+Swift | Kotlin | Javascript | Dart | Java | Objective C | Python
