@@ -1,21 +1,16 @@
-### Hey, I'm Daryl 🤚🏼
+# Daryl Gialolo 🤚🏼
+**Mobile Developer & UI/UX Designer**
 
-I am a Mobile Software Developer and a UI/UX Designer too. I enjoy coding and designing during my free time.
+---
 
-Being a developer is tough sometimes, but it gets better with time and patience :)
+### 💊 [Data Pill](https://apps.apple.com/sg/app/data-pill/id1661467660)
+Founder & developer of **Data Pill**, a mobile utility for intuitive data tracking.
 
+### 🛠️ Tech Stack
+- **Core:** SwiftUI (iOS) & Jetpack Compose (Android)
+- **Design:** Figma, Prototyping & UI/UX Systems
+- **Others:** Javascript, Dart, Java, Objective-C
 
-### More about me:
-🤖 🍎 Android & iOS Developer
-
-📫 Drop me an email: darylgialolo@gmail.com
-
-👨🏼‍💻 Working on Data Pill app
-
-📖 Coding in Swift UI, Jetpack Compose 
-
-✅ Portfolio Website: https://darylgialolo.wixsite.com/darylgialolo
-
-
-### Programming Languages: (most to least used)
-Swift | Kotlin | Javascript | Dart | Java | Objective C | Python
+### 📬 Connect
+- **Email:** darylgialolo@gmail.com
+- **LinkedIn:** [in/darylgialolo](https://www.linkedin.com/in/darylgialolo/)
