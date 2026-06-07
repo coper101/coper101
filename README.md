@@ -7,7 +7,7 @@ Mobile Developer | iOS & Android Developer | UI/UX Designer
   <img width="50" height="50" alt="data-pill-icon-rounded" src="https://github.com/user-attachments/assets/8916bef1-098b-41df-b446-eaeade5ffe7c" style="border-radius: 12px;" />
 </a>
 &nbsp;&nbsp;
-<a href="https://testflight.apple.com/join/kP72bn1J">
+<a href="https://apps.apple.com/us/app/echo-your-quote/id6754518887">
   <img width="50" height="50" alt="Echo-App-Icon" src="https://github.com/user-attachments/assets/6b4546b0-3ef8-4555-a447-8497e08f7834" style="border-radius: 12px;" />
 </a>
 
