@@ -14,6 +14,10 @@ Mobile Developer | iOS & Android Developer | UI/UX Designer
 <a href="https://apps.apple.com/us/app/echo-your-quote/id6801267097">
   <img width="50" height="50" alt="Weather-Studio-Icon" src="https://github.com/user-attachments/assets/74df70f0-1989-45c0-b158-f5c7e8d59f6c" style="border-radius: 12px;" />
 </a>
+&nbsp;&nbsp;
+<a href="">
+  <img width="50" height="50" alt="View-Graph-Icon" src="https://github.com/user-attachments/assets/0a232a20-db62-478b-a394-a4db60ef8c4d" style="border-radius: 12px;" />
+</a>
 
 # 
 #### 🛠️ Technologies & Tools
